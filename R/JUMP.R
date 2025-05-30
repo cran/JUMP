@@ -1,7 +1,7 @@
 ############################################################################################
 # Package: JUMP
-# Version: 1.0.1
-# Data: 2023-05-22
+# Version: 1.0.2
+# Data: 2025-05-30
 # Authors: P. Lyu, Y. Li, X. Wen, and H. Cao.
 ############################################################################################
 #' @title Replicability Analysis of High-Throughput Experiments
